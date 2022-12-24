@@ -1,0 +1,17 @@
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\bin\Debug\netcoreapp3.1\FiguresAreaCalculator.exe
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\bin\Debug\netcoreapp3.1\FiguresAreaCalculator.deps.json
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\bin\Debug\netcoreapp3.1\FiguresAreaCalculator.runtimeconfig.json
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\bin\Debug\netcoreapp3.1\FiguresAreaCalculator.runtimeconfig.dev.json
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\bin\Debug\netcoreapp3.1\FiguresAreaCalculator.dll
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\bin\Debug\netcoreapp3.1\FiguresAreaCalculator.pdb
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.AssemblyInfo.cs
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.csproj.CopyComplete
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.dll
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.pdb
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\FiguresAreaCalculator\FiguresAreaCalculator\obj\Debug\netcoreapp3.1\FiguresAreaCalculator.genruntimeconfig.cache

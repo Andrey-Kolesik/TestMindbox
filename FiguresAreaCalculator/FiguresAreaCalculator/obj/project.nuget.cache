@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+GV6tIx2FKfdZZD8kLtG5nH1hyUSJam4xDBbg2z39oTWSo7lE7vS+mQ2EwP/qMgV2F+u+wol3J3vR2qBFb8jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sumy_\\Downloads\\TestWorkMindbox-main\\FiguresAreaCalculator\\FiguresAreaCalculator\\FiguresAreaCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumy_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.deps.json
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.AssemblyReference.cache
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfo.cs
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.dll
+C:\Users\sumy_\Downloads\TestWorkMindbox-main\AreaOfFigures\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.pdb
